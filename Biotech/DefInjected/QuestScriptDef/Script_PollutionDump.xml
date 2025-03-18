@@ -35,7 +35,7 @@
   <PollutionDump.questNameRules.rulesStrings>
     <li>questName->[waste][dump]</li>
     <li>questName(askerIsNull==False)->[asker_faction_pawnSingular][waste][dump]</li>
-    <li>questName(askerIsNull==False,asker_royalInCurrentFaction==False)->[asker_nameDef]的[waste][dump]</li>
+    <li>questName(askerIsNull==False,asker_royalInCurrentFaction==False)->[asker_nameDef]的 [waste][dump]</li>
     <li>waste->废物</li>
     <li>waste->污染</li>
     <li>waste->毒素</li>

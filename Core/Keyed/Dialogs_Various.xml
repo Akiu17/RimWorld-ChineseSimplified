@@ -32,23 +32,23 @@
   
   <!-- Game updated to new version -->
   <!-- EN: RimWorld has been updated from version {0} to version {1}. -->
-  <GameUpdatedToNewVersionInitial>Rimworld已从{0}版本更新至{1}版本。</GameUpdatedToNewVersionInitial>
+  <GameUpdatedToNewVersionInitial>Rimworld 已从{0}版本更新至{1}版本。</GameUpdatedToNewVersionInitial>
   <!-- EN: This may cause saved games and mods from the old version to stop working. -->
-  <GameUpdatedToNewVersionSavesIncompatible>可能会导致旧版存档及Mod无法读取及使用。</GameUpdatedToNewVersionSavesIncompatible>
+  <GameUpdatedToNewVersionSavesIncompatible>可能会导致旧版存档及 Mod 无法读取及使用。</GameUpdatedToNewVersionSavesIncompatible>
   <!-- EN: Saved games from the old version should be compatible, however some mods may stop working. -->
-  <GameUpdatedToNewVersionSavesCompatible>旧存档应该是兼容的，不过一些Mod可能无法使用。</GameUpdatedToNewVersionSavesCompatible>
+  <GameUpdatedToNewVersionSavesCompatible>旧存档应该是兼容的，不过一些 Mod 可能无法使用。</GameUpdatedToNewVersionSavesCompatible>
   <!-- EN: Since this is a DRM-free copy, you can install the game twice in two different folders, to be able to play both old and new versions. -->
-  <GameUpdatedToNewVersionNonSteam>因为你的游戏为DRM-free版，你可以选择在不同的文件夹下安装新版本，因此可以同时玩旧版和新版。</GameUpdatedToNewVersionNonSteam>
+  <GameUpdatedToNewVersionNonSteam>因为你的游戏为 DRM-free 版，你可以选择在不同的文件夹下安装新版本，因此可以同时玩旧版和新版。</GameUpdatedToNewVersionNonSteam>
   <!-- EN: If you wish to continue with the old version, you can opt in using Steam's "Betas" feature.\n\n  1. In the Steam library, right-click RimWorld.\n  2. Click Properties.\n  3. Click the Betas tab.\n  4. Select the version you want from the drop-down menu. -->
-  <GameUpdatedToNewVersionSteam>你可以在Steam的「测试版」选项中选择使用旧版进行游戏。\n\n 1.在「Steam游戏库」中右击RimWorld\n 2.点击「属性」\n 3.选择「测试」标签页\n 4.在下拉菜单中选择你想进行游戏的版本。</GameUpdatedToNewVersionSteam>
+  <GameUpdatedToNewVersionSteam>你可以在 Steam 的「测试版」选项中选择使用旧版进行游戏。\n\n 1. 在「Steam 游戏库」中右击 RimWorld\n 2. 点击「属性」\n 3. 选择「测试」标签页\n 4. 在下拉菜单中选择你想进行游戏的版本。</GameUpdatedToNewVersionSteam>
   <!-- EN: If you wish to continue with the old version, you can opt in using Steam's "Betas" feature. -->
-  <GameUpdatedToNewVersionSteamController>你可以在Steam的「测试版」选项中选择使用旧版进行游戏。</GameUpdatedToNewVersionSteamController>
+  <GameUpdatedToNewVersionSteamController>你可以在 Steam 的「测试版」选项中选择使用旧版进行游戏。</GameUpdatedToNewVersionSteamController>
   
   <!-- Recovered from errors caused by mods -->
   <!-- EN: Recovered from incompatible or corrupted mods errors -->
-  <RecoveredFromErrorsDialogTitle>从不兼容或损坏的Mod错误中恢复</RecoveredFromErrorsDialogTitle>
+  <RecoveredFromErrorsDialogTitle>从不兼容或损坏的 Mod 错误中恢复</RecoveredFromErrorsDialogTitle>
   <!-- EN: It seems that some of the active mods were causing errors.\n\nThey were incompatible with each other, designed for a different version of RimWorld, or corrupted.\n\nAll mods have been disabled and can be activated again in the mods dialog. -->
-  <RecoveredFromErrorsText>当前启用的某些Mod导致了错误。\n\n它们可能彼此之间不兼容，或者兼容不同的游戏版本或已经损坏。\n\n所有的Mod已被禁用，你可以在Mod配置菜单中重新启用。</RecoveredFromErrorsText>
+  <RecoveredFromErrorsText>当前启用的某些 Mod 导致了错误。\n\n它们可能彼此之间不兼容，或者兼容不同的游戏版本或已经损坏。\n\n所有的 Mod 已被禁用，你可以在 Mod 配置菜单中重新启用。</RecoveredFromErrorsText>
   
   <!-- Errors during loading -->
   <!-- EN: Error while loading assets -->
@@ -56,7 +56,7 @@
   <!-- EN: An error occurred while loading game assets. See error log for more information. -->
   <ErrorWhileLoadingAssets>载入游戏资源时发生错误。查看错误日志以了解更多信息。</ErrorWhileLoadingAssets>
   <!-- EN: The game is currently running with custom mods - they may or may not cause these problems. -->
-  <ErrorWhileLoadingAssets_ModsInfo>当前游戏载入了自定义的Mod，它们可能会引起这些问题。</ErrorWhileLoadingAssets_ModsInfo>
+  <ErrorWhileLoadingAssets_ModsInfo>当前游戏载入了自定义的 Mod，它们可能会引起这些问题。</ErrorWhileLoadingAssets_ModsInfo>
   <!-- EN: Error while generating a map -->
   <ErrorWhileGeneratingMapTitle>生成地图时出错</ErrorWhileGeneratingMapTitle>
   <!-- EN: An error occurred while generating a new map. See error log for more information. -->
@@ -68,15 +68,15 @@
   
   <!-- Unloaded mod with an assembly -->
   <!-- EN: The mod list has changed. The game will now restart automatically. -->
-  <ModsChanged>Mod列表已修改。游戏将会立刻自动重启。</ModsChanged>
+  <ModsChanged>Mod 列表已修改。游戏将会立刻自动重启。</ModsChanged>
   <!-- EN: Something went wrong while restarting the game. The game can't fully unload modified code from deactivated mods, so code from deactivated mods may still be active.\n\nIt's recommended that you quit and restart the game now to load all mods cleanly. -->
-  <FailedToRestart>重启游戏时发生了错误。游戏无法完全卸载已停用Mod的修改代码，所以来自已停用Mod的代码仍然会生效。\n\n建议你现在退出并重启游戏以清洁地载入所有Mod。</FailedToRestart>
+  <FailedToRestart>重启游戏时发生了错误。游戏无法完全卸载已停用 Mod 的修改代码，所以来自已停用 Mod 的代码仍然会生效。\n\n建议你现在退出并重启游戏以清洁地载入所有 Mod。</FailedToRestart>
   <!-- EN: Restarting -->
   <Restarting>正在重启</Restarting>
   
   <!-- Missing Steam -->
   <!-- EN: Could not initialize Steam API. Possible causes:\n\n-Steam is not running.\n-Launched from outside Steam without steam_appid.txt in place.\n-Running with different privileges than Steam client (e.g. "as administrator").\n\nIn most cases, rebooting your computer will fix this problem.\n\nYou can play anyway, but no Steam stats will be recorded and Steam features won't be available. -->
-  <SteamClientMissing>无法初始化Steam API。可能原因:\n\n-Steam未运行。\n-在Steam之外启动，且无法载入steam_appid.txt。\n-通过和Steam客户端不同的权限启动（比如「管理员身份」）。\n\n在大部分时候，重启你的电脑即可解决这个问题。\n\n你可以继续游戏，但Steam统计信息将不会被记录，且Steam功能将不会生效。</SteamClientMissing>
+  <SteamClientMissing>无法初始化 Steam API。可能原因:\n\n-Steam 未运行。\n-在 Steam 之外启动，且无法载入 steam_appid.txt 。\n-通过和 Steam 客户端不同的权限启动（比如「管理员身份」）。\n\n在大部分时候，重启你的电脑即可解决这个问题。\n\n你可以继续游戏，但 Steam 统计信息将不会被记录，且 Steam 功能将不会生效。</SteamClientMissing>
   
   <!-- Long events -->
   <!-- EN: Initializing interface -->
@@ -84,9 +84,9 @@
   <!-- EN: Unloading unused assets -->
   <UnloadingUnusedAssets>释放未使用的资源</UnloadingUnusedAssets>
   <!-- EN: Loading all active mods -->
-  <LoadingAllActiveMods>载入所有启用的Mod</LoadingAllActiveMods>
+  <LoadingAllActiveMods>载入所有启用的 Mod</LoadingAllActiveMods>
   <!-- EN: Loading defs -->
-  <LoadingDefs>载入Defs</LoadingDefs>
+  <LoadingDefs>载入 Defs</LoadingDefs>
   <!-- EN: Loading assets -->
   <LoadingAssets>载入资源</LoadingAssets>
   <!-- EN: Initializing -->
@@ -124,9 +124,9 @@
   <!-- EN: (Permadeath) -->
   <PermadeathModeSaveSuffix>（永久死亡模式）</PermadeathModeSaveSuffix>
   <!-- EN: We are running version {0} but the save data is from {1}, which is a different version entirely.\n\nTrying to load this data will probably not work. -->
-  <SaveIsFromDifferentGameVersion>当前运行的游戏版本是{0}，但是存档数据版本是{1}，二者为完全不同的主版本。\n\n尝试载入不可能成功。</SaveIsFromDifferentGameVersion>
+  <SaveIsFromDifferentGameVersion>当前运行的游戏版本是 {0}，但是存档数据版本是 {1}，二者为完全不同的主版本。\n\n尝试载入不可能成功。</SaveIsFromDifferentGameVersion>
   <!-- EN: We are running version {0} but the save data is from {1}, which is a different build.\n\nTrying to load this data should still work. -->
-  <SaveIsFromDifferentGameBuild>当前运行的游戏版本是{0}，但是存档数据版本是{1}，二者不同的副版本。\n\n尝试载入有可能成功。</SaveIsFromDifferentGameBuild>
+  <SaveIsFromDifferentGameBuild>当前运行的游戏版本是 {0}，但是存档数据版本是 {1}， 二者不同的副版本。\n\n尝试载入有可能成功。</SaveIsFromDifferentGameBuild>
   <!-- EN: Save data was saved with our game version and should work without issue. -->
   <SaveIsFromThisGameBuild>存档数据版本和当前运行的游戏版本一致，可以正确载入。</SaveIsFromThisGameBuild>
   <!-- EN: Save data is in an unknown format and almost certainly will not load properly. -->
@@ -210,9 +210,9 @@
   <!-- EN: Version mismatch -->
   <VersionMismatch>版本不匹配</VersionMismatch>
   <!-- EN: This game was saved with game version {0}\nWe are running game version {1}\n\nLoading this save may cause bugs and crashes. -->
-  <SaveGameIncompatibleWarningText>游戏存档版本为{0}，当前运行游戏版本为{1}。\n\n载入这个存档很可能会造成游戏崩溃或产生游戏bug。</SaveGameIncompatibleWarningText>
+  <SaveGameIncompatibleWarningText>游戏存档版本为 {0}，当前运行游戏版本为 {1}。\n\n 载入这个存档很可能会造成游戏崩溃或产生游戏 bug。</SaveGameIncompatibleWarningText>
   <!-- EN: World file was generated with game version {0}\nWe are running game version {1}\n\nLoading this world may cause bugs and crashes. You should probably generate a new world from scratch. -->
-  <WorldFileVersionMismatch>世界生成版本为{0}，当前运行游戏版本为{1}。\n\n载入这个世界很可能会造成游戏崩溃或产生游戏bug。建议你重新生成一个新世界。</WorldFileVersionMismatch>
+  <WorldFileVersionMismatch>世界生成版本为 {0}，当前运行游戏版本为 {1}。\n\n 载入这个世界很可能会造成游戏崩溃或产生游戏 bug。建议你重新生成一个新世界。</WorldFileVersionMismatch>
   <!-- EN: This file was saved with game version {0}\nWe are running game version {1}\n\nLoading this file may cause bugs and crashes. -->
   <FileIncompatibleWarning>保存该文件的游戏版本为{0}。\n当前运行游戏版本为{1}\n\n载入该文件可能导致错误或崩溃。</FileIncompatibleWarning>
   <!-- EN: Mods mismatch -->
@@ -383,7 +383,7 @@
   <!-- EN: Charging -->
   <ChargingTime>充能中</ChargingTime>
   <!-- EN: Next recharge (for {1}) in: {0}\nCharge cycle: {2} -->
-  <ChargingNext>再充能（持续{1}）需要：{0}\n充能周期：{2}</ChargingNext>
+  <ChargingNext>再充能（持续 {1}）需要：{0}\n充能周期：{2}</ChargingNext>
   <!-- EN: Shut down -->
   <ShutDown>关机</ShutDown>
   <!-- EN: Fire rate -->
@@ -695,7 +695,7 @@
   <!-- EN: Final price -->
   <FinalPrice>最终价格</FinalPrice>
   <!-- EN: Gift mode - offer gifts to {0}. -->
-  <GiftModeTip>礼物模式-向{0}馈赠礼物。</GiftModeTip>
+  <GiftModeTip>礼物模式 - 向{0}馈赠礼物。</GiftModeTip>
   <!-- EN: Return to trade mode. -->
   <TradeModeTip>回到交易模式。</TradeModeTip>
   <!-- EN: {FACTION_name} is not willing to send a caravan because {NEGOTIATOR_nameDef} lacks the required title of {TITLE}. -->
@@ -709,7 +709,7 @@
   <!-- EN: Restocked since your last visit -->
   <TraderRestockedSinceLastVisit>上次访问后已补货</TraderRestockedSinceLastVisit>
   <!-- EN: Next restock: {0} days -->
-  <NextTraderRestock>下次补货: {0}天</NextTraderRestock>
+  <NextTraderRestock>下次补货: {0} 天</NextTraderRestock>
   <!-- EN: Creatures -->
   <PawnsTabShort>生物</PawnsTabShort>
   
@@ -761,7 +761,7 @@
   <!-- EN: Unlimited -->
   <InfiniteDaysWorthOfFoodInfo>无限</InfiniteDaysWorthOfFoodInfo>
   <!-- EN: The approximate number of days before at least one person or animal will be out of food. Different species have different diets, so one may run out of food before others. This value is calculated more accurately after the route is chosen.\n\nAffected by:\n  - Current pawn inventory\n  - Carried food type and amount\n  - Caravan members and their diets\n  - Foraging rate\n  - Whether animals can graze\n  - Time until food rots\n  - Hot weather rots food faster -->
-  <DaysWorthOfFoodTooltip>远行队所携带的食物预计可以维持的天数。\n\n受以下因素影响:\n -当前的库存\n\n计算包括人类和动物的食物，并考虑最坏的情况。这表示这么多天后，至少有一个动物或人将会没有食物。</DaysWorthOfFoodTooltip>
+  <DaysWorthOfFoodTooltip>远行队所携带的食物预计可以维持的天数。\n\n受以下因素影响:\n - 当前的库存\n\n计算包括人类和动物的食物，并考虑最坏的情况。 这表示这么多天后，至少有一个动物或人将会没有食物。</DaysWorthOfFoodTooltip>
   <!-- EN: (only the first waypoint is taken into account) -->
   <DaysWorthOfFoodTooltip_OnlyFirstWaypoint>\n（只有第一个路径点才被计入）</DaysWorthOfFoodTooltip_OnlyFirstWaypoint>
   <!-- EN: Your caravan only has {0} days worth of food and will become hungry quickly. -->
@@ -837,7 +837,7 @@
   <!-- EN: tiles/day -->
   <TilesPerDay>格/天</TilesPerDay>
   <!-- EN: None - too heavy -->
-  <TilesPerDayImmobile>无-太重</TilesPerDayImmobile>
+  <TilesPerDayImmobile>无 - 太重</TilesPerDayImmobile>
   <!-- EN: None -->
   <TilesPerDayImmobileShort>无</TilesPerDayImmobileShort>
   <!-- EN: Movement speed depends on carried mass, ridden animals, and terrain movement difficulty. -->
@@ -867,7 +867,7 @@
   <!-- EN: Automatically select travel supplies -->
   <AutomaticallySelectTravelSupplies>自动选择远行必备的物资</AutomaticallySelectTravelSupplies>
   <!-- EN: This animal is sick. It is suffering from the following illnesses -->
-  <CaravanAnimalSick>这只动物生病了。它患有以下疾病</CaravanAnimalSick>
+  <CaravanAnimalSick>这只动物生病了。它患有以下疾病 </CaravanAnimalSick>
 
   <!-- Split caravan -->
   <!-- EN: Split caravan -->
@@ -921,7 +921,7 @@
   
   <!--HistoryUpload-->
   <!-- EN: Do you want to upload your gameplay data records to RimWorld server in order to help developers balance the game? If you agree, your data will be uploaded every {0} days (and in some other rare cases like the end of the game). Privacy preferences can be changed later in the options menu. -->
-  <HistoryUploadMessage>你想把游戏数据上传到RimWorld服务器以帮助开发者完善游戏平衡吗？同意后，每隔{0}个游戏日（或在游戏结束等特殊事件时），你的游戏数据会被自动上传到RimWorld服务器并被分析。之后可以在选项菜单里改变隐私设置。</HistoryUploadMessage>
+  <HistoryUploadMessage>你想把游戏数据上传到 RimWorld 服务器以帮助开发者完善游戏平衡吗？同意后，每隔{0}个游戏日（或在游戏结束等特殊事件时），你的游戏数据会被自动上传到 RimWorld 服务器并被分析。之后可以在选项菜单里改变隐私设置。</HistoryUploadMessage>
   <!-- EN: Even though history is sent anonymously, you can attach your name. -->
   <HistoryUploadMessagePlayerName>尽管游戏数据默认是匿名上传的，但你仍然可以附上你的用户名。</HistoryUploadMessagePlayerName>
   <!-- EN: Allow uploading gameplay data -->
@@ -1147,7 +1147,7 @@
   
   <!-- Cleanup translation files -->
   <!-- EN: Are you sure you want to cleanup all translation files for language {0}?\n\nThis will:\n  - Add placeholders for missing keyed translations, def-injected translations, and backstories\n  - Add or update comments containing the original, untranslated text\n  - Move all keyed and def-injected translations to the appropriate XML files\n  - Apply automatic formatting to all XML files\n  - Update back-compatible def names\n  - Remove all existing XML comments (except in full-list injections)\n\nNon-XML files will not be removed or modified.\n\nRemember to restart the game after modifying the language files before running this tool in order to reload all data.\n\nMake sure to back up all translation files before using this tool. -->
-  <ConfirmCleanupTranslationFiles>你确定要清理语言{0}的所有翻译文件吗？\n\n这将：\n  -为缺少的keyed，def-injected和backstories翻译添加占位符。\n  -添加或更新包含原始文本的注释\n  -将所有keyed和def-injected翻译移动到相应的XML文件\n  -将自动匹配格式应用于XML文件\n  -更新反向兼容的def名称\n  -删除所有现有的XML注释（全列表注入除外）\n\n不会删除或修改非XML文件。\n\n在运行此工具前，请在修改语言文件后重新启动游戏，以便重新加载所有数据。\n\n使用前请务必备份所有翻译文件。</ConfirmCleanupTranslationFiles>
+  <ConfirmCleanupTranslationFiles>你确定要清理语言{0}的所有翻译文件吗？\n\n这将：\n  - 为缺少的keyed，def-injected和backstories翻译添加占位符。\n  - 添加或更新包含原始文本的注释\n  - 将所有keyed和def-injected翻译移动到相应的XML文件\n  - 将自动匹配格式应用于XML文件\n  - 更新反向兼容的def名称\n  - 删除所有现有的XML注释（全列表注入除外）\n\n不会删除或修改非XML文件。\n\n在运行此工具前，请在修改语言文件后重新启动游戏，以便重新加载所有数据。\n\n使用前请务必备份所有翻译文件。</ConfirmCleanupTranslationFiles>
   <!-- EN: Yes, I have a backup -->
   <ConfirmCleanupTranslationFiles_Confirm>是的，我已经备份。</ConfirmCleanupTranslationFiles_Confirm>
 

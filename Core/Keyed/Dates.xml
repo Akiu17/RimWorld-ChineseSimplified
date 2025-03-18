@@ -17,7 +17,7 @@
   <!-- EN: {0}, {1} -->
   <MonthYearDate>{0}, {1}</MonthYearDate>
   <!-- EN: {0} of {1}, {2} -->
-  <DateReadout>{2}年{1}第{0}天</DateReadout>
+  <DateReadout>{2}年 {1} 第{0}天</DateReadout>
   <!-- EN: {0} of {1} -->
   <SeasonFullDate>{1}第{0}天</SeasonFullDate>
   <!-- EN: Whole year -->
