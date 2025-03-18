@@ -123,7 +123,7 @@
   <!-- EN: Maximum autosave interval in permadeath mode is {0} day. -->
   <MaxPermadeathAutosaveIntervalInfo>永久死亡模式下自动存档的最大间隔为{0}天。</MaxPermadeathAutosaveIntervalInfo>
   <!-- EN: Mod Settings -->
-  <ModSettings>Mod 设置</ModSettings>
+  <ModSettings>Mod设置</ModSettings>
   <!-- EN: Permanently disable development mode -->
   <PermanentlyDisableDevMode>永久禁用开发者模式</PermanentlyDisableDevMode>
   <!-- EN: Texture compression -->
@@ -147,9 +147,9 @@
 
   <!-- Mods -->
   <!-- EN: Select mod... -->
-  <SelectMod>选择 Mod</SelectMod>
+  <SelectMod>选择Mod</SelectMod>
   <!-- EN: No configurable mods loaded. -->
-  <NoConfigurableMods>已载入的 Mod 中无可设置的内容。</NoConfigurableMods>
+  <NoConfigurableMods>已载入的Mod中无可设置的内容。</NoConfigurableMods>
   
   <!-- Options reset -->
   <!-- EN: Restore all settings to default -->

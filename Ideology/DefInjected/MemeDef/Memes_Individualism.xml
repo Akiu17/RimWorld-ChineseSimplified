@@ -25,7 +25,7 @@
   <Collectivist.descriptionMaker.rules.rulesStrings>
     <li>creation(tag=meme_Collectivist)        ->[deity0_name]利用一个大模具制造了所有男人和女人，并将那些偏离背弃[deity0_pronoun]的人丢进了火堆里，以便信徒们能够和谐共存。</li>
     <li>episode(uses=1,tag=meme_Collectivist)  ->[deity0_name]对所有人说：“没有人可以立于集体之上。要么一起生，要么一起死。”</li>
-    <li>intro(tag=meme_Collectivist)           ->[place_summary] [place_name]的人们和谐相处，并为[deity0_name]建造了一座[altarName]以纪念[deity0_pronoun]教会他们[memeConcept]真正的价值。</li>
+    <li>intro(tag=meme_Collectivist)           ->[place_summary][place_name]的人们和谐相处，并为[deity0_name]建造了一座[altarName]以纪念[deity0_pronoun]教会他们[memeConcept]真正的价值。</li>
     <li>conflict(tag=meme_Collectivist)        ->[foeLeader]无法忍受[memberNamePlural]的和睦大家庭生活，便派出[foeLeader_possessive][foeSoldiers]到[place_community]制造分化。</li>
     <li>founderJoin(tag=meme_Collectivist)     ->一个名叫[founderName]的[place_job]主动跳进火堆，以抗议[foeLeader]，但[memberNamePlural]把[founder_objective]救了出来，并因为[founder_possessive]对团体的奉献精神而让[founder_objective]成为他们的领袖。</li>
     <li>victory(tag=meme_Collectivist)         ->[founderName]的行动将人民团结起来。他们步调一致地冲向[foeLeader]的老家。即使冲在前面的人被[foeSoldiers]杀害，也没人能挡住集体的力量，他们最终抓住了[foeLeader]。</li>
